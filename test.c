@@ -8,6 +8,8 @@ int main()
 	printf("diff=",sub);
 	int multiply=a*b;
 	printf("multiplication=",multiply);
+	int divide=a/b;
+	printf("division=",divide);
 	return 0;
 
 }
