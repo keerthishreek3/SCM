@@ -6,5 +6,8 @@ int main()
 	printf("sum=",add);
 	int sub=a-b;
 	printf("diff=",sub);
+	int multiply=a*b;
+	printf("multiplication=",multiply);
 	return 0;
+
 }
