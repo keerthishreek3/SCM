@@ -8,6 +8,8 @@ int main ()
 	else if 
 	{printf("negative number");}
 	else if (n==0){printf("its zero");}
+	else
+		printf("invalid number");
 
 	return 0;
 
