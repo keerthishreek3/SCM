@@ -12,4 +12,10 @@ int main ()
 		printf("invalid number");
 
 	return 0;
+}
+
+
+
+
+
 
