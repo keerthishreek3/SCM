@@ -18,4 +18,8 @@ case2:
 		break;
 case3:
 		printf("%d*%d=%d",a,b.a*b);
+               break;
+case4:
+	       printf("%d/%d=%d",a,b,a/b);
+                break;
 
