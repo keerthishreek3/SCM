@@ -9,7 +9,12 @@ int main ()
 	printf("enter b:");
 	scanf("%d",&b);
 	switch (choice)
-	{case1:
+	{ 
+case1:
 		printf("%d +%d =%d",a,b,a+b);
 		break;
+case2:
+		printf("%d-%d=%d",a,b,a-b);
+		break;
+
 
