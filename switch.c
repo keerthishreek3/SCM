@@ -22,4 +22,8 @@ case3:
 case4:
 	       printf("%d/%d=%d",a,b,a/b);
                 break;
-
+default:
+	       printf("invalid input");
+	}
+	return 0;
+}
