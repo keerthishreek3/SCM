@@ -16,5 +16,6 @@ case1:
 case2:
 		printf("%d-%d=%d",a,b,a-b);
 		break;
-
+case3:
+		printf("%d*%d=%d",a,b.a*b);
 
