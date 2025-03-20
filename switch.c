@@ -8,4 +8,8 @@ int main ()
 	scanf("%d",&a);
 	printf("enter b:");
 	scanf("%d",&b);
-	
+	switch (choice)
+	{case1:
+		printf("%d +%d =%d",a,b,a+b);
+		break;
+
