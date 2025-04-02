@@ -1,0 +1,42 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+i<html>
+=======
+<html>
+>>>>>>> test
+=======
+<html>
+>>>>>>> test
+	<head>
+		<title>first page</title>
+	</head>
+	<body>
+		<p>type someting</>
+		<h1>Heading1</h1>
+		<h2>Heading</h2>
+		<a href ="https ://www.google .com">google</a>
+<<<<<<< HEAD
+
+
+
+<ul>
+	<li>ECE</li>
+	<li>EEE</li>
+</ul>
+
+
+
+
+	
+		<ol>
+			<li>CSE</li>
+			<li>AIML</li>
+		</ol>
+=======
+	ONE LINE IN TEST 
+>>>>>>> test
+=======
+	ONE LINE IN TEST 
+>>>>>>> test
+	</body>
+</html>
