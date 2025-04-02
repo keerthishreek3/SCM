@@ -11,6 +11,8 @@ int main()
 	temp=*ptr1;
 	*ptr1=*ptr2;
 	*ptr2=temp;
-
+        printf("the swapped two numbers are %d,%d",num1,num2);
+	return 0;
+}
 
         
