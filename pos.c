@@ -10,6 +10,13 @@ int main ()
 	else if (n==0){printf("its zero");}
 	else
 		printf("invalid number");
+AMITY
 
 	return 0;
+}
+
+
+
+
+
 
