@@ -2,3 +2,6 @@ Amity University
 B.Tech (CSE)
 Bangalore
 courses:
+CSE
+AIML
+
