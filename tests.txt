@@ -4,4 +4,6 @@ Bangalore
 courses:
 CSE
 AIML
+ECE
+CSE(Data Analytics)
 
