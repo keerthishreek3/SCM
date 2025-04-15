@@ -10,4 +10,7 @@ int main()
 	scanf("%d",&a);
 	printf("enter trhe number");
 	scanf("%d",&b);
-
+        result=multiply(a,b);
+	printf("multiplication of %d  and %d is :%d\n",a,b,result);
+	return 0;
+}
